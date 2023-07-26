@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3760e403.css",
-    "main.js": "/static/js/main.c62c381e.js",
-    "static/js/682.18d61dd9.chunk.js": "/static/js/682.18d61dd9.chunk.js",
-    "static/js/971.e573d1e2.chunk.js": "/static/js/971.e573d1e2.chunk.js",
-    "static/js/516.c087b8fc.chunk.js": "/static/js/516.c087b8fc.chunk.js",
-    "static/js/787.49a57fdc.chunk.js": "/static/js/787.49a57fdc.chunk.js",
-    "static/js/532.f8b9991d.chunk.js": "/static/js/532.f8b9991d.chunk.js",
-    "index.html": "/index.html",
-    "main.3760e403.css.map": "/static/css/main.3760e403.css.map",
-    "main.c62c381e.js.map": "/static/js/main.c62c381e.js.map",
-    "682.18d61dd9.chunk.js.map": "/static/js/682.18d61dd9.chunk.js.map",
-    "971.e573d1e2.chunk.js.map": "/static/js/971.e573d1e2.chunk.js.map",
-    "516.c087b8fc.chunk.js.map": "/static/js/516.c087b8fc.chunk.js.map",
-    "787.49a57fdc.chunk.js.map": "/static/js/787.49a57fdc.chunk.js.map",
-    "532.f8b9991d.chunk.js.map": "/static/js/532.f8b9991d.chunk.js.map"
+    "main.css": "/abogadabavieratesting/static/css/main.3760e403.css",
+    "main.js": "/abogadabavieratesting/static/js/main.f23381cf.js",
+    "static/js/682.18d61dd9.chunk.js": "/abogadabavieratesting/static/js/682.18d61dd9.chunk.js",
+    "static/js/971.e573d1e2.chunk.js": "/abogadabavieratesting/static/js/971.e573d1e2.chunk.js",
+    "static/js/516.c087b8fc.chunk.js": "/abogadabavieratesting/static/js/516.c087b8fc.chunk.js",
+    "static/js/787.49a57fdc.chunk.js": "/abogadabavieratesting/static/js/787.49a57fdc.chunk.js",
+    "static/js/532.f8b9991d.chunk.js": "/abogadabavieratesting/static/js/532.f8b9991d.chunk.js",
+    "index.html": "/abogadabavieratesting/index.html",
+    "main.3760e403.css.map": "/abogadabavieratesting/static/css/main.3760e403.css.map",
+    "main.f23381cf.js.map": "/abogadabavieratesting/static/js/main.f23381cf.js.map",
+    "682.18d61dd9.chunk.js.map": "/abogadabavieratesting/static/js/682.18d61dd9.chunk.js.map",
+    "971.e573d1e2.chunk.js.map": "/abogadabavieratesting/static/js/971.e573d1e2.chunk.js.map",
+    "516.c087b8fc.chunk.js.map": "/abogadabavieratesting/static/js/516.c087b8fc.chunk.js.map",
+    "787.49a57fdc.chunk.js.map": "/abogadabavieratesting/static/js/787.49a57fdc.chunk.js.map",
+    "532.f8b9991d.chunk.js.map": "/abogadabavieratesting/static/js/532.f8b9991d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3760e403.css",
-    "static/js/main.c62c381e.js"
+    "static/js/main.f23381cf.js"
   ]
 }
